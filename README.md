@@ -33,7 +33,7 @@ git clone https://github.com/hospitaldeamor/JC_06_MLP.git
 ```
 2. Abrir diretamente no Google Colab:
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1O6Ek08PLIMdZZhagxQVmxdUEL8piCAxh?usp=sharing](https://colab.research.google.com/drive/12UjtPmsa_eU4W4eBkVktp4dHXOm5IcLr?usp=sharing))
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/12UjtPmsa_eU4W4eBkVktp4dHXOm5IcLr?usp=sharing])
 
 ---
 ## 📚 **Material Didático**
