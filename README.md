@@ -25,6 +25,7 @@ Bibliotecas:
   - Matplotlib
   - Seaborn
   - Sklearn
+  - Tensorflow
 
 Instalação:
 1. Você pode clonar o repositório em seu computador:
