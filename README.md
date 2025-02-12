@@ -13,7 +13,7 @@ O objetivo final é avaliar a apicação de MLPs utilizando dados de texto clín
 ## 📂 Dados
 
 - **Conjunto de Dados 1**: [Câncer de Mama Wisconsin (Diagnóstico)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-- **Conjunto de Dados 2**: [Brain MRI Images for Brain Tumor Detection)](https://www.kaggle.com/code/brendonim/brain-mri-tumor-detection-using-svm/input)
+- **Conjunto de Dados 2**: [Brain MRI Images for Brain Tumor Detection)](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 ---
 ## 🛠️ Código e Recursos Utilizados
 
